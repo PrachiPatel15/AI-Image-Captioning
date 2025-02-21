@@ -57,7 +57,7 @@ AI-Image-Captioning/
 │── app.py                  # Main Streamlit application
 │── requirements.txt        # Required dependencies
 │── README.md               # Documentation
-│── assets/                 # Store images/screenshots
+│── assest/                 # Store images/screenshots
 ```
 
 ## 🛠️ Usage Instructions
